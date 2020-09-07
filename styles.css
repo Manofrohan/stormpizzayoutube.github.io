@@ -139,7 +139,7 @@ nav a:focus {
 .donate {
     position: absolute;
     transform: translate(-50%, -50%);
-    top: 125%;
+    top: 145%;
     width: 200px;
     height: 60px;
     text-align: center;
@@ -196,7 +196,7 @@ nav a:focus {
 .subcount {
     position: absolute;
     transform: translate(-50%, -50%);
-    top: 155%;
+    top: 180%;
     left: 50%;
 }
 
@@ -205,6 +205,6 @@ nav a:focus {
 .final {
     position: absolute;
     transform: translate(-50%, -50%);
-    top: 180%;
+    top: 215%;
     left: 50%;
 }
